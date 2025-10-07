@@ -92,6 +92,8 @@ CONFIG_LUCI_LANG_zh_Hans=y
 # CONFIG_NGINX_HTTP_REAL_IP is not set
 # CONFIG_NGINX_HTTP_SUB is not set
 # CONFIG_NGINX_STREAM_REAL_IP is not set
+CONFIG_PACKAGE_uhttpd=y
+CONFIG_PACKAGE_uhttpd-mod-ubus=y
 
 ### APPS
 # CONFIG_PACKAGE_luci-app-airconnect is not set
